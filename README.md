@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # linuxbtw
 https://linuxbtw.me website repository
 
-=======
 # Welcome to Buffalo
 
 Thank you for choosing Buffalo for your web development needs.
@@ -42,4 +40,3 @@ We recommend you heading over to [http://gobuffalo.io](http://gobuffalo.io) and 
 Good luck!
 
 [Powered by Buffalo](http://gobuffalo.io)
->>>>>>> 72dd77c (Initial Commit)
